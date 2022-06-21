@@ -6,7 +6,7 @@ gym==0.9.3
 idna==2.6
 imageio==2.2.0
 mujoco-py==0.5.7
-numpy==1.13.1
+numpy==1.22.0
 olefile==0.44
 pachi-py==0.0.21
 Pillow==4.2.1
